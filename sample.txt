@@ -5,3 +5,5 @@ modified
 modified2
 
 add 충돌만들기 실습
+충돌발생
+
